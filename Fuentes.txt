@@ -1,0 +1,24 @@
+Textfield size: https://stackoverflow.com/questions/50400529/how-to-change-textfields-height-and-width
+
+Textfiled color:
+https://thinkdiff.net/flutter-and-dart/flutter-making-a-text-field-with-rounded-border/
+
+Text underline:
+https://stackoverflow.com/questions/50614661/how-to-underline-text-in-flutter
+
+Container Shape:
+https://medium.com/jlouage/flutter-boxdecoration-cheat-sheet-72cedaa1ba20
+
+Container State color:
+https://stackoverflow.com/questions/58837417/how-do-i-change-the-color-and-text-of-container-at-ontap-event-in-flutter
+
+Fill image to stack:
+https://stackoverflow.com/questions/45745448/how-do-i-stretch-an-image-to-fit-the-whole-background-100-height-x-100-width
+
+If en text:
+https://stackoverflow.com/questions/49713189/how-to-use-conditional-statement-within-child-attribute-of-a-flutter-widget-cen
+
+Center appbar title:
+https://stackoverflow.com/questions/43981406/how-to-center-the-title-of-an-appbar
+
+//Included 
